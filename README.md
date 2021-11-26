@@ -1,4 +1,4 @@
-### Hi there 👋 Fellow Data Scientist
+### Hi there 👋 Fellow Data Scientists
 
 <!--
 **HimanshuJain5/HimanshuJain5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
