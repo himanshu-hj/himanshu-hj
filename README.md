@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with, so far I am good.
 - 💬 Ask me about Data Science/Machine Learning/Azure Services/PowerBI/PowerApps/PowerAutomate
 - 📫 How to reach me: Email : jain.himanshu236@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...1.png
