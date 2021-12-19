@@ -29,7 +29,10 @@
 
 ### Medium Blog
 
-<a href="https://himanshu-hj.medium.com/"><img alt="Medium Blog" src="https://github.com/himanshu-hj/himanshu-hj/blob/main/Beginner%20to%20Master.gif" width=150" height="70"></a>
+
+ <a href="https://himanshu-hj.medium.com/">
+  <img src="https://github.com/himanshu-hj/himanshu-hj/blob/main/Beginner%20to%20Master.gif" height="100" width="250">
+</a>
  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HimanshuJain5&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
