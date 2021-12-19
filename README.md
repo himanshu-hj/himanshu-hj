@@ -26,6 +26,10 @@
 <img style="margin: 10px" src="https://github.com/HimanshuJain5/HimanshuJain5/blob/b22bd3c36ccd88abdad184edd598aa4bbcc6fe2b/azure-ai-fundamentals-600x600.png" alt="Azure AI" height="80" /> 
 <img style="margin: 10px" src="https://github.com/HimanshuJain5/HimanshuJain5/blob/b22bd3c36ccd88abdad184edd598aa4bbcc6fe2b/azure-data-fundamentals-600x600.png" alt="Azure Data" height="80" /> 
 </div>
+
+### Medium Blog
+
+<a href="https://himanshu-hj.medium.com/"><img alt="Medium Blog" src="https://github.com/himanshu-hj/himanshu-hj/blob/main/Beginner%20to%20Master.gif" width=150" height="70"></a>
  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HimanshuJain5&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
